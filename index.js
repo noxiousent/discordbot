@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const {token} = require('config.json')
+//const {token} = require('config.json')
 
 
-client.login(token)
+client.login("NjY2OTQ3MTg4OTg2NzQwNzU2.XiCFzQ.2gAxxEne34MirwkHxb8xkFnjhXo")
 
 
 client.on('ready', () => {
