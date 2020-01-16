@@ -5,7 +5,6 @@ const client = new Discord.Client();
 // console.log(process.env)
 client.login(process.env.BOT_KEY)
 
-
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
   });
