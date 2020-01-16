@@ -3,7 +3,7 @@ const client = new Discord.Client();
 //const {token} = require('config.json')
 
 
-client.login("NjY2OTQ3MTg4OTg2NzQwNzU2.XiCFzQ.2gAxxEne34MirwkHxb8xkFnjhXo")
+client.login("NjY2OTQ3MTg4OTg2NzQwNzU2.XiCHoA.RGz_fTvXzjPP6xkQ_bHrfiYdp5w")
 
 
 client.on('ready', () => {
