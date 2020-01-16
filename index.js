@@ -9,7 +9,6 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
   });
 
-
   client.on('message', message => {
     // If the message is "ping"
     if (message.content.startsWith('!findthehomo')) {
