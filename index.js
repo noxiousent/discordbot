@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 //const {token} = require('config.json')
 
-console.log(process.env)
+// console.log(process.env)
 client.login(process.env.BOT_KEY)
 
 
