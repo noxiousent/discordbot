@@ -18,7 +18,7 @@ client.on('ready', () => {
 
         // giphy.gifByID("ZGC27UvQJxXT37XzAh").then((response)=>{
         //     console.log(typeof(response));
-            message.channel.send("finding homos....\n"+"one FAG FOUND as per "+message.member.displayName + "'s query",
+            message.channel.send("finding homos....\n"+"one FOUND as per "+message.member.displayName + "'s query",
             {
                 files : ['https://media.giphy.com/media/ZGC27UvQJxXT37XzAh/giphy.gif']
             }
